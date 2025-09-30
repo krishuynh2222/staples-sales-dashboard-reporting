@@ -1,5 +1,8 @@
 # 📊 Staples Sales Dashboard Reporting (2021–2024)
 
+An interactive Excel dashboard:
+![Staples Sales Dashboard](02_excel_dashboard/Staples_dashboard.png)
+
 ## 📌 Project Overview  
 An interactive Excel dashboard analyzing Staples’ sales (2021–2024).  
 The project highlights revenue trends, profit challenges, and actionable strategies to improve performance.  
