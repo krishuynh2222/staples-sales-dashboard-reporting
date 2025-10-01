@@ -55,12 +55,6 @@ By implementing these actions, Staples could:
 - Excel dashboard design  
 - Turning insights into strategic recommendations
 ---
-## 🛠️ Skills Demonstrated  
-- Business Intelligence & KPI reporting  
-- Data analysis & storytelling  
-- Excel dashboard design  
-- Turning insights into strategic recommendations
----
 ## Contact & Attribution
 👤 Author: Ngan Huynh
 
